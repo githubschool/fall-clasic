@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Putting out all the fires with Sentry :fire: and GitHub!
+Thanksgiving is coming!
 
-![sentrycat](https://octodex.github.com/images/Sentrytocat_octodex.jpg)
+![thanksgiving](https://octodex.github.com/images/gobbleotron.gif)
 {: .center}
