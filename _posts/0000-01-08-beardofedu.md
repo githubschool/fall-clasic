@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Thanksgiving is coming!
 
-![codercat](https://octodex.github.com/images/codercat.jpg)
+![thanksgiving](https://octodex.github.com/images/gobbleotron.gif)
 {: .center}
