@@ -22,12 +22,12 @@ Please take a moment to complete the class survey at: null.
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
 
 
-### Extended Resources 
+### Extended Resources
 
 <details>
   <summary>More helpful links including videos, cheat sheets, and visualization tools
 </summary>
-  
+
 #### Git
 - [Git Cheat Sheets](https://services.github.com/on-demand/resources/cheatsheets/)
 - [git-scm](https://git-scm.com)
@@ -71,3 +71,5 @@ After you have completed this course, you are probably wondering where to go fro
 - [GitHub Learning Lab](https://lab.github.com/)
 - [Recommended Path for Learning More](https://services.github.com/on-demand/resources/learning-path/)
 - [A Curated List of our Favorite Resources](https://services.github.com/on-demand/resources/)
+
+im also a change
